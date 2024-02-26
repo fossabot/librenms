@@ -92,6 +92,9 @@ exception):
 [19]: https://github.com/librenms/librenms/pulls
 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ft0nn1x%2Flibrenms.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ft0nn1x%2Flibrenms?ref=badge_large)
+
 ## Backers
 
 Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/librenms#backer)]
@@ -126,6 +129,7 @@ Support us with a monthly donation and help us continue our activities. [[Become
 <a href="https://opencollective.com/librenms/backer/27/website" target="_blank"><img src="https://opencollective.com/librenms/backer/27/avatar.svg"></a>
 <a href="https://opencollective.com/librenms/backer/28/website" target="_blank"><img src="https://opencollective.com/librenms/backer/28/avatar.svg"></a>
 <a href="https://opencollective.com/librenms/backer/29/website" target="_blank"><img src="https://opencollective.com/librenms/backer/29/avatar.svg"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ft0nn1x%2Flibrenms?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ft0nn1x%2Flibrenms.svg?type=shield"/></a>
 
 
 ## Sponsors
@@ -142,5 +146,3 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 <a href="https://opencollective.com/librenms/sponsor/7/website" target="_blank"><img src="https://opencollective.com/librenms/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/librenms/sponsor/8/website" target="_blank"><img src="https://opencollective.com/librenms/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/librenms/sponsor/9/website" target="_blank"><img src="https://opencollective.com/librenms/sponsor/9/avatar.svg"></a>
-
-
